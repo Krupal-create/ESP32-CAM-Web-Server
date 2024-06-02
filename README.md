@@ -1,11 +1,11 @@
 # ESP32-CAM-Web-Server
 Display the output that is given from ESP32-CAM using web server.
 
-The components we will need to build these parts are: -
+The components we will need to build these parts are:
 
-ESP32 CAM
-FTDI programmer
-Jumper wires
+- ESP32 CAM
+- FTDI programmer
+- Jumper wires
 
 #  ESP32 Camera
 The ESP32 camera is a powerful, versatile microcontroller developed by Espressif Systems, renowned for its dual-core processing, built-in Wi-Fi and Bluetooth capabilities, and a rich array of GPIO pins, making it a preferred choice for a wide range of IoT applications. Its dual-core architecture allows for simultaneous execution of tasks, enabling efficient handling of complex operations.
