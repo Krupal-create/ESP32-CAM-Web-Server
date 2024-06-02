@@ -1,4 +1,5 @@
 # ESP32-CAM-Web-Server
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br>
 Display the output that is given from ESP32-CAM using web server.
 
 The components we will need to build these parts are:
